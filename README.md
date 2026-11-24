@@ -4,6 +4,10 @@
 
 StyleIQ is a product concept and in-progress portfolio project exploring how fashion e-commerce can reduce purchase uncertainty through personalized product discovery, AI-powered virtual try-on, and measurement-based fit guidance.
 
+<img width="1273" height="717" alt="image" src="https://github.com/user-attachments/assets/32ab8289-ca49-4de4-b7a6-ca4cfcb11ba6" />
+
+
+
 > **Project status:** Product definition and technical planning. The repository currently documents the intended product and MVP. Virtual try-on, avatar generation, fit prediction, video generation, and commerce integrations are planned—not yet implemented.
 
 ## The problem
