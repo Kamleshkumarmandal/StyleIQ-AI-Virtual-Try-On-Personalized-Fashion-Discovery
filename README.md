@@ -40,6 +40,8 @@ A privacy-first path that does not require a photo.
 - Use confirmed measurements as inputs to fit guidance.
 
 ### 2. Photo-based avatar
+![Uploading image.png…]()
+
 An optional path for a more personalized visual preview.
 - Review a plain-language explanation and give explicit consent.
 - Upload a suitable full-body photo.
