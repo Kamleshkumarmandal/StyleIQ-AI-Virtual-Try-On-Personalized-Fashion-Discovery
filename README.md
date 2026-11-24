@@ -40,7 +40,8 @@ A privacy-first path that does not require a photo.
 - Use confirmed measurements as inputs to fit guidance.
 
 ### 2. Photo-based avatar
-![Uploading image.png…]()
+<img width="2940" height="1632" alt="Meshcapade - AI 3D human avatars" src="https://github.com/user-attachments/assets/841babb4-5aaf-4bf9-86d9-2556f145a6d9" />
+
 
 An optional path for a more personalized visual preview.
 - Review a plain-language explanation and give explicit consent.
